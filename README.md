@@ -17,10 +17,10 @@ I love building games, web apps, and scalable backend services.
 
 ## GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxn151&show_icons=true&theme=radical)
 
 ---
 
 ## Contact Me
 
-📫 wxn.npc@example.com  
+📫 wxn.npc@gmail.com  
